@@ -26,3 +26,5 @@ class Asset(Base):
     creator = Column(String, nullable=True)
     subject = Column(String, nullable=True)
     description = Column(String, nullable=True)
+    
+
